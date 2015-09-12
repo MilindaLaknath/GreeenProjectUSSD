@@ -1,2 +1,4 @@
-# hacktad
-tadhack 2015 app
+USSD-PHP-API
+============
+
+Ideamart USSD PHP API
