@@ -1,0 +1,12 @@
+[14-Jun-2015 00:48:12 UTC] PHP Notice:  Undefined index: BinId in /media/ephemeral0/milindal/milindalApps/IdeaApp/tocollector.php on line 31
+[14-Jun-2015 06:18:12 Asia/Colombo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /media/ephemeral0/milindal/milindalApps/IdeaApp/tocollector.php on line 49
+[14-Jun-2015 06:18:12 Asia/Colombo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /media/ephemeral0/milindal/milindalApps/IdeaApp/tocollector.php on line 64
+[14-Jun-2015 01:18:10 UTC] PHP Notice:  Undefined index: BinId in /media/ephemeral0/milindal/milindalApps/IdeaApp/tocollector.php on line 31
+[14-Jun-2015 06:48:10 Asia/Colombo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /media/ephemeral0/milindal/milindalApps/IdeaApp/tocollector.php on line 49
+[14-Jun-2015 06:48:10 Asia/Colombo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /media/ephemeral0/milindal/milindalApps/IdeaApp/tocollector.php on line 64
+[14-Jun-2015 02:21:10 UTC] PHP Notice:  Undefined index: BinId in /media/ephemeral0/milindal/milindalApps/IdeaApp/tocollector.php on line 31
+[14-Jun-2015 07:51:10 Asia/Colombo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /media/ephemeral0/milindal/milindalApps/IdeaApp/tocollector.php on line 49
+[14-Jun-2015 07:51:10 Asia/Colombo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /media/ephemeral0/milindal/milindalApps/IdeaApp/tocollector.php on line 64
+[14-Jun-2015 02:49:00 UTC] PHP Notice:  Undefined index: BinId in /media/ephemeral0/milindal/milindalApps/IdeaApp/tocollector.php on line 31
+[14-Jun-2015 08:19:00 Asia/Colombo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /media/ephemeral0/milindal/milindalApps/IdeaApp/tocollector.php on line 49
+[14-Jun-2015 08:19:00 Asia/Colombo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /media/ephemeral0/milindal/milindalApps/IdeaApp/tocollector.php on line 64

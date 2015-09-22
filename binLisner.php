@@ -105,25 +105,35 @@ function getModifiedTimeStamp($timeStamp) {
 }
 
 function httpPost($url, $params) {
-    $postData = '';
-    //create name value pairs seperated by &
-    foreach ($params as $k => $v) {
-        $postData .= $k . '=' . $v . '&';
-    }
-    rtrim($postData, '&');
+//set POST variables
+$url = 'http://greeen.brightron.net/greeen_project/index.php/ajax/insert';
+$fields = array('lng'=>6.8830417,
+'lat'=>79.8556852,
+'gcid'=>2,
+'type'=>2
+				);
 
-    $ch = curl_init();
+//url-ify the data for the POST
+foreach($fields as $key=>$value) { $fields_string .= $key.'='.$value.'&'; }
+rtrim($fields_string, '&');
 
-    curl_setopt($ch, CURLOPT_URL, $url);
-    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-    curl_setopt($ch, CURLOPT_HEADER, false);
-    curl_setopt($ch, CURLOPT_POST, count($postData));
-    curl_setopt($ch, CURLOPT_POSTFIELDS, $postData);
+//open connection
+$ch = curl_init();
 
-    $output = curl_exec($ch);
+//set the url, number of POST vars, POST data
+curl_setopt($ch,CURLOPT_URL, $url);
+curl_setopt($ch,CURLOPT_POST, count($fields));
+curl_setopt($ch,CURLOPT_POSTFIELDS, $fields_string);
 
-    curl_close($ch);
-    return $output;
+//execute post
+$result = curl_exec($ch);
+
+//close connection
+curl_close($ch);  
+
+
+
+
 }
 
 ?>

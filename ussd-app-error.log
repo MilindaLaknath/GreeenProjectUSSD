@@ -1,0 +1,61 @@
+[14-Jun-2015 11:44:44 Asia/Colombo] PHP Notice:  Undefined index: timeStamp in /media/ephemeral0/milindal/milindalApps/IdeaApp/lbs/libs/LbsResponse.php on line 29
+[14-Jun-2015 11:44:44 Asia/Colombo] PHP Notice:  Undefined index: subscriberState in /media/ephemeral0/milindal/milindalApps/IdeaApp/lbs/libs/LbsResponse.php on line 31
+[14-Jun-2015 11:44:44 Asia/Colombo] PHP Notice:  Undefined index: horizontalAccuracy in /media/ephemeral0/milindal/milindalApps/IdeaApp/lbs/libs/LbsResponse.php on line 32
+[14-Jun-2015 11:44:44 Asia/Colombo] PHP Notice:  Undefined index: freshness in /media/ephemeral0/milindal/milindalApps/IdeaApp/lbs/libs/LbsResponse.php on line 33
+[14-Jun-2015 11:44:44 Asia/Colombo] PHP Notice:  Undefined index: longitude in /media/ephemeral0/milindal/milindalApps/IdeaApp/lbs/libs/LbsResponse.php on line 34
+[14-Jun-2015 11:44:44 Asia/Colombo] PHP Notice:  Undefined index: latitude in /media/ephemeral0/milindal/milindalApps/IdeaApp/lbs/libs/LbsResponse.php on line 35
+[14-Jun-2015 11:44:48 Asia/Colombo] PHP Notice:  Undefined index: timeStamp in /media/ephemeral0/milindal/milindalApps/IdeaApp/lbs/libs/LbsResponse.php on line 29
+[14-Jun-2015 11:44:48 Asia/Colombo] PHP Notice:  Undefined index: subscriberState in /media/ephemeral0/milindal/milindalApps/IdeaApp/lbs/libs/LbsResponse.php on line 31
+[14-Jun-2015 11:44:48 Asia/Colombo] PHP Notice:  Undefined index: horizontalAccuracy in /media/ephemeral0/milindal/milindalApps/IdeaApp/lbs/libs/LbsResponse.php on line 32
+[14-Jun-2015 11:44:48 Asia/Colombo] PHP Notice:  Undefined index: freshness in /media/ephemeral0/milindal/milindalApps/IdeaApp/lbs/libs/LbsResponse.php on line 33
+[14-Jun-2015 11:44:48 Asia/Colombo] PHP Notice:  Undefined index: longitude in /media/ephemeral0/milindal/milindalApps/IdeaApp/lbs/libs/LbsResponse.php on line 34
+[14-Jun-2015 11:44:48 Asia/Colombo] PHP Notice:  Undefined index: latitude in /media/ephemeral0/milindal/milindalApps/IdeaApp/lbs/libs/LbsResponse.php on line 35
+[14-Jun-2015 11:44:57 Asia/Colombo] PHP Notice:  Undefined variable: arry in /media/ephemeral0/milindal/milindalApps/IdeaApp/class/operationsClass.php on line 77
+[14-Jun-2015 11:44:57 Asia/Colombo] PHP Warning:  Invalid argument supplied for foreach() in /media/ephemeral0/milindal/milindalApps/IdeaApp/class/operationsClass.php on line 126
+[15-Jun-2015 20:30:49 Asia/Colombo] PHP Notice:  Undefined index: timeStamp in /media/ephemeral0/milindal/milindalApps/IdeaApp/lbs/libs/LbsResponse.php on line 29
+[15-Jun-2015 20:30:49 Asia/Colombo] PHP Notice:  Undefined index: subscriberState in /media/ephemeral0/milindal/milindalApps/IdeaApp/lbs/libs/LbsResponse.php on line 31
+[15-Jun-2015 20:30:49 Asia/Colombo] PHP Notice:  Undefined index: horizontalAccuracy in /media/ephemeral0/milindal/milindalApps/IdeaApp/lbs/libs/LbsResponse.php on line 32
+[15-Jun-2015 20:30:49 Asia/Colombo] PHP Notice:  Undefined index: freshness in /media/ephemeral0/milindal/milindalApps/IdeaApp/lbs/libs/LbsResponse.php on line 33
+[15-Jun-2015 20:30:49 Asia/Colombo] PHP Notice:  Undefined index: longitude in /media/ephemeral0/milindal/milindalApps/IdeaApp/lbs/libs/LbsResponse.php on line 34
+[15-Jun-2015 20:30:49 Asia/Colombo] PHP Notice:  Undefined index: latitude in /media/ephemeral0/milindal/milindalApps/IdeaApp/lbs/libs/LbsResponse.php on line 35
+[15-Jun-2015 20:31:04 Asia/Colombo] PHP Notice:  Undefined variable: arry in /media/ephemeral0/milindal/milindalApps/IdeaApp/class/operationsClass.php on line 77
+[15-Jun-2015 20:31:04 Asia/Colombo] PHP Warning:  Missing argument 3 for Operations::setArtoStr(), called in /media/ephemeral0/milindal/milindalApps/IdeaApp/ussdap.php on line 116 and defined in /media/ephemeral0/milindal/milindalApps/IdeaApp/class/operationsClass.php on line 117
+[15-Jun-2015 20:31:04 Asia/Colombo] PHP Warning:  Invalid argument supplied for foreach() in /media/ephemeral0/milindal/milindalApps/IdeaApp/class/operationsClass.php on line 126
+[15-Jun-2015 20:31:33 Asia/Colombo] PHP Notice:  Undefined index: timeStamp in /media/ephemeral0/milindal/milindalApps/IdeaApp/lbs/libs/LbsResponse.php on line 29
+[15-Jun-2015 20:31:33 Asia/Colombo] PHP Notice:  Undefined index: subscriberState in /media/ephemeral0/milindal/milindalApps/IdeaApp/lbs/libs/LbsResponse.php on line 31
+[15-Jun-2015 20:31:33 Asia/Colombo] PHP Notice:  Undefined index: horizontalAccuracy in /media/ephemeral0/milindal/milindalApps/IdeaApp/lbs/libs/LbsResponse.php on line 32
+[15-Jun-2015 20:31:33 Asia/Colombo] PHP Notice:  Undefined index: freshness in /media/ephemeral0/milindal/milindalApps/IdeaApp/lbs/libs/LbsResponse.php on line 33
+[15-Jun-2015 20:31:33 Asia/Colombo] PHP Notice:  Undefined index: longitude in /media/ephemeral0/milindal/milindalApps/IdeaApp/lbs/libs/LbsResponse.php on line 34
+[15-Jun-2015 20:31:33 Asia/Colombo] PHP Notice:  Undefined index: latitude in /media/ephemeral0/milindal/milindalApps/IdeaApp/lbs/libs/LbsResponse.php on line 35
+[15-Jun-2015 20:31:40 Asia/Colombo] PHP Notice:  Undefined variable: arry in /media/ephemeral0/milindal/milindalApps/IdeaApp/class/operationsClass.php on line 77
+[15-Jun-2015 20:31:40 Asia/Colombo] PHP Warning:  Invalid argument supplied for foreach() in /media/ephemeral0/milindal/milindalApps/IdeaApp/class/operationsClass.php on line 126
+[30-Jun-2015 00:50:30 Asia/Colombo] PHP Notice:  Undefined variable: arry in /media/ephemeral0/milindal/milindalApps/IdeaApp/class/operationsClass.php on line 77
+[30-Jun-2015 00:50:30 Asia/Colombo] PHP Warning:  Invalid argument supplied for foreach() in /media/ephemeral0/milindal/milindalApps/IdeaApp/class/operationsClass.php on line 126
+[30-Jun-2015 10:11:32 Asia/Colombo] PHP Notice:  Undefined variable: arry in /media/ephemeral0/milindal/milindalApps/IdeaApp/class/operationsClass.php on line 77
+[30-Jun-2015 10:11:32 Asia/Colombo] PHP Warning:  Invalid argument supplied for foreach() in /media/ephemeral0/milindal/milindalApps/IdeaApp/class/operationsClass.php on line 126
+[11-Jul-2015 22:10:17 Asia/Colombo] PHP Notice:  Undefined index: timeStamp in /media/ephemeral0/milindal/milindalApps/IdeaApp/lbs/libs/LbsResponse.php on line 29
+[11-Jul-2015 22:10:17 Asia/Colombo] PHP Notice:  Undefined index: subscriberState in /media/ephemeral0/milindal/milindalApps/IdeaApp/lbs/libs/LbsResponse.php on line 31
+[11-Jul-2015 22:10:17 Asia/Colombo] PHP Notice:  Undefined index: horizontalAccuracy in /media/ephemeral0/milindal/milindalApps/IdeaApp/lbs/libs/LbsResponse.php on line 32
+[11-Jul-2015 22:10:17 Asia/Colombo] PHP Notice:  Undefined index: freshness in /media/ephemeral0/milindal/milindalApps/IdeaApp/lbs/libs/LbsResponse.php on line 33
+[11-Jul-2015 22:10:17 Asia/Colombo] PHP Notice:  Undefined index: longitude in /media/ephemeral0/milindal/milindalApps/IdeaApp/lbs/libs/LbsResponse.php on line 34
+[11-Jul-2015 22:10:17 Asia/Colombo] PHP Notice:  Undefined index: latitude in /media/ephemeral0/milindal/milindalApps/IdeaApp/lbs/libs/LbsResponse.php on line 35
+[11-Jul-2015 22:10:29 Asia/Colombo] PHP Notice:  Undefined variable: arry in /media/ephemeral0/milindal/milindalApps/IdeaApp/class/operationsClass.php on line 77
+[11-Jul-2015 22:10:29 Asia/Colombo] PHP Warning:  Invalid argument supplied for foreach() in /media/ephemeral0/milindal/milindalApps/IdeaApp/class/operationsClass.php on line 126
+[12-Jul-2015 07:32:24 Asia/Colombo] PHP Notice:  Undefined index: timeStamp in /media/ephemeral0/milindal/milindalApps/IdeaApp/lbs/libs/LbsResponse.php on line 29
+[12-Jul-2015 07:32:24 Asia/Colombo] PHP Notice:  Undefined index: subscriberState in /media/ephemeral0/milindal/milindalApps/IdeaApp/lbs/libs/LbsResponse.php on line 31
+[12-Jul-2015 07:32:24 Asia/Colombo] PHP Notice:  Undefined index: horizontalAccuracy in /media/ephemeral0/milindal/milindalApps/IdeaApp/lbs/libs/LbsResponse.php on line 32
+[12-Jul-2015 07:32:24 Asia/Colombo] PHP Notice:  Undefined index: freshness in /media/ephemeral0/milindal/milindalApps/IdeaApp/lbs/libs/LbsResponse.php on line 33
+[12-Jul-2015 07:32:24 Asia/Colombo] PHP Notice:  Undefined index: longitude in /media/ephemeral0/milindal/milindalApps/IdeaApp/lbs/libs/LbsResponse.php on line 34
+[12-Jul-2015 07:32:24 Asia/Colombo] PHP Notice:  Undefined index: latitude in /media/ephemeral0/milindal/milindalApps/IdeaApp/lbs/libs/LbsResponse.php on line 35
+[26-Jul-2015 09:36:17 Asia/Colombo] PHP Notice:  Undefined index: timeStamp in /media/ephemeral0/milindal/milindalApps/IdeaApp/lbs/libs/LbsResponse.php on line 29
+[26-Jul-2015 09:36:17 Asia/Colombo] PHP Notice:  Undefined index: subscriberState in /media/ephemeral0/milindal/milindalApps/IdeaApp/lbs/libs/LbsResponse.php on line 31
+[26-Jul-2015 09:36:17 Asia/Colombo] PHP Notice:  Undefined index: horizontalAccuracy in /media/ephemeral0/milindal/milindalApps/IdeaApp/lbs/libs/LbsResponse.php on line 32
+[26-Jul-2015 09:36:17 Asia/Colombo] PHP Notice:  Undefined index: freshness in /media/ephemeral0/milindal/milindalApps/IdeaApp/lbs/libs/LbsResponse.php on line 33
+[26-Jul-2015 09:36:17 Asia/Colombo] PHP Notice:  Undefined index: longitude in /media/ephemeral0/milindal/milindalApps/IdeaApp/lbs/libs/LbsResponse.php on line 34
+[26-Jul-2015 09:36:17 Asia/Colombo] PHP Notice:  Undefined index: latitude in /media/ephemeral0/milindal/milindalApps/IdeaApp/lbs/libs/LbsResponse.php on line 35
+[26-Jul-2015 09:37:05 Asia/Colombo] PHP Notice:  Undefined index: timeStamp in /media/ephemeral0/milindal/milindalApps/IdeaApp/lbs/libs/LbsResponse.php on line 29
+[26-Jul-2015 09:37:05 Asia/Colombo] PHP Notice:  Undefined index: subscriberState in /media/ephemeral0/milindal/milindalApps/IdeaApp/lbs/libs/LbsResponse.php on line 31
+[26-Jul-2015 09:37:05 Asia/Colombo] PHP Notice:  Undefined index: horizontalAccuracy in /media/ephemeral0/milindal/milindalApps/IdeaApp/lbs/libs/LbsResponse.php on line 32
+[26-Jul-2015 09:37:05 Asia/Colombo] PHP Notice:  Undefined index: freshness in /media/ephemeral0/milindal/milindalApps/IdeaApp/lbs/libs/LbsResponse.php on line 33
+[26-Jul-2015 09:37:05 Asia/Colombo] PHP Notice:  Undefined index: longitude in /media/ephemeral0/milindal/milindalApps/IdeaApp/lbs/libs/LbsResponse.php on line 34
+[26-Jul-2015 09:37:05 Asia/Colombo] PHP Notice:  Undefined index: latitude in /media/ephemeral0/milindal/milindalApps/IdeaApp/lbs/libs/LbsResponse.php on line 35
