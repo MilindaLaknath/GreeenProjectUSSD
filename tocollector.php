@@ -15,8 +15,8 @@ require 'libs/sms/SMSReceiver.php';
 
 $production = true;
 
-$APP_ID = "APP_013169";
-$PASSWORD = "ee0364803d67c2752aad888bb1592878";
+$APP_ID = "APP_ID";
+$PASSWORD = "APP_PASSWORD";
 
 $logger = new Logger();
 
